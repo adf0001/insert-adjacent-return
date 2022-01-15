@@ -1,0 +1,25 @@
+{
+  "name": "insert-adjacent-return",
+  "version": "1.0.1",
+  "description": "call insertAdjacentHTML/Text/Element() and return the first inserted element/node",
+  "main": "insert-adjacent-return.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "return",
+    "insertAdjacentHTML",
+    "insertAdjacentElement",
+    "insertAdjacentText"
+  ],
+  "author": "fwg",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adf0001/insert-adjacent-return.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adf0001/insert-adjacent-return/issues"
+  },
+  "homepage": "https://github.com/adf0001/insert-adjacent-return#readme"
+}
